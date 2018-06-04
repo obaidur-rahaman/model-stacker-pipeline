@@ -18,6 +18,10 @@ data: contains the training and the test sets
 
 model: contains the single base models 
 
+corr-coeff: explores the correlations and performances of the base models
+
+submission: stores the submission data for the individual base models
+
 The stacking.ipynb performs the stacking
 
 
